@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
-public class Pra1_5 {
+public class Pra1_4
+{
     public static void mergeArrays(int[] arr1, int size1, int[] arr2, int size2, int[] merged) {
         int i = 0, j = 0, k = 0;
         
